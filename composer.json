@@ -1,0 +1,15 @@
+{
+    "name": "yashveersingh/laravel-discord-notifier",
+    "authors": [
+        {
+            "name": "Yashveer Singh",
+            "email": "yashveersingh444444@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "yashveersingh\\laravelDiscordNotifier\\": "src/"
+        }
+    }
+}
