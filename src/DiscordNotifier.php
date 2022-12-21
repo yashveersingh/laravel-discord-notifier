@@ -33,6 +33,7 @@ class DiscordNotifier
     public function setUserName(string $username): DiscordNotifier
     {
         $this->username = $username;
+        return $this;
     }
 
     /**
